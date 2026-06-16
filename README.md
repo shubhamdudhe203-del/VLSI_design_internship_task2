@@ -15,8 +15,8 @@ These modules are the building blocks of digital electronics. The project verifi
 ---
 
 ## 📂 Repository Structure
-'''mainscraft-internship/
-│
+'''mainscraft-internship/'''
+'''│'''
 ├── src/
 │   ├── basic_gates.sv        # Implementation of six basic gates
 │   ├── half_adder.sv         # Half adder design
