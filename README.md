@@ -7,7 +7,7 @@ markdown
 ## 📌 Overview
 This task demonstrates the design and simulation of fundamental digital circuits using **SystemVerilog (.sv)**:
 - Six Basic Logic Gates (AND, OR, NOT, NAND, NOR, XOR)  
-- Half Adder  
+- Half Adder
 - Full Adder  
 
 These modules are the building blocks of digital electronics. The project verifies their functionality through structured testbenches and waveform analysis.
