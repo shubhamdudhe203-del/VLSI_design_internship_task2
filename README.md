@@ -15,7 +15,7 @@ These modules are the building blocks of digital electronics. The project verifi
 ---
 
 ## 📂 Repository Structure
-mainscraft-internship/
+'''mainscraft-internship/
 │
 ├── src/
 │   ├── basic_gates.sv        # Implementation of six basic gates
@@ -36,7 +36,7 @@ mainscraft-internship/
 │   └── Task2_Report.pdf      # Detailed report for Task 2
 │
 └── README.md                 # Project description and usage guide
-
+'''
 
 
 ---
