@@ -18,9 +18,9 @@ These modules are the building blocks of digital electronics. The project verifi
 mainscraft-internship/
 
 src/
-basic_gates.sv
-half_adder.sv
-full_adder.sv
+-basic_gates.sv
+-half_adder.sv
+-full_adder.sv
 
 testbench/
 tb_basic_gates.sv
