@@ -50,12 +50,12 @@ These modules are the building blocks of digital electronics. The project verifi
 ```text
 mainscraft-internship/
 │
-├── src/
+├── Source_file_zip/
 │   ├── basic_gates.sv        # Implementation of six basic gates
 │   ├── half_adder.sv         # Half adder design
 │   ├── full_adder.sv         # Full adder design
 │
-├── testbench/
+├── testbench_zip/
 │   ├── tb_basic_gates.sv     # Testbench for basic gates
 │   ├── tb_half_adder.sv      # Testbench for half adder
 │   ├── tb_full_adder.sv      # Testbench for full adder
@@ -66,7 +66,7 @@ mainscraft-internship/
 │   ├── waveform_full.png     # Waveform screenshot for full adder
 │
 ├── docs/
-│   └── Task2_Report.pdf      # Detailed report for Task 2
+│   └── Task2_Report.docx    # Detailed report for Task 2
 │
 └── README.md                 # Project description and usage guide
 
